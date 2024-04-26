@@ -1,0 +1,86 @@
+﻿.header {
+    width: 100%;
+    height: 70px;
+    line-height: 70px;
+}
+
+.logo {
+    align-items: center;
+}
+
+    .logo h1 {
+        color: #111;
+        letter-spacing: 2px;
+        font-family: "Namdhinggo", serif;
+        font-weight: 900;
+        font-size: 3.2rem;
+        letter-spacing: 2px;
+    }
+
+        .logo h1 span {
+            color: #dc143c;
+        }
+
+.menu {
+    display: flex;
+    align-items: center;
+    column-gap: 2.8rem;
+    text-transform: uppercase;
+}
+
+.nav__item {
+    cursor: pointer;
+    align-items: center;
+    font-size: 1.3rem;
+    letter-spacing: 1px;
+    transition: all 0.1s ease;
+}
+
+    .nav__item:hover {
+        color: #ff0800;
+        font-weight: 600;
+        scale: 1.1;
+    }
+
+.cart__icon, .user__icon, mobile__icon {
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.cart__icon {
+    position: relative;
+}
+
+.badge {
+    content: '';
+    position: absolute;
+    top: 20%;
+    right: -8px;
+    width: 17px;
+    height: 17px;
+    padding: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #dc143c;
+    color: white;
+    border-radius: 50%;
+    font-size: 0.7rem;
+    font-weight: 500;
+}
+
+.mobile__icon {
+    display: none;
+}
+
+.sticky {
+    width: 100%;
+    height: 70px;
+    line-height: 70px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    box-shadow: 3px 3px 8px -3px #ddd;
+    background: white;
+}

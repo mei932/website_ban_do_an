@@ -1,0 +1,21 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Shop";
+}
+
+@model IEnumerable<BTL_LTWNC.Models.EF.Product>
+
+@await Html.PartialAsync("~/Views/Shared/_CommonSectionPartialView.cshtml", (string)ViewBag.Title);
+
+<section>
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                @await Html.PartialAsync("~/Views/Shared/_ProductPartialView.cshtml", item)
+            }
+        </div>
+    </div>
+</section>

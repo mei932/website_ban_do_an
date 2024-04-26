@@ -1,0 +1,32 @@
+﻿body {
+    height: 100vh;
+}
+
+.login-page {
+    width: 100%;
+    display: inline-block;
+    display: flex;
+    align-items: center;
+}
+
+.form-right  {
+    height: 100% !important;
+}
+
+input {
+    padding: 10px 20px !important;
+}
+
+a {
+    cursor: pointer;
+}
+
+button {
+    padding: 10px 15px !important;
+    font-size: 20px !important;
+}
+
+img {
+    height: 100%;
+    object-fit: cover;
+}

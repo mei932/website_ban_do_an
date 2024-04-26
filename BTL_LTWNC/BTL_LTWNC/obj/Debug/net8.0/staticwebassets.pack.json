@@ -1,0 +1,597 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BTL_LTWNC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BTL_LTWNC.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\css\\sidebar.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\css\\sidebar.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\css\\site.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\js\\product.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\product.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\js\\site.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\cart.css",
+      "PackagePath": "staticwebassets\\css\\cart.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\commonSection.css",
+      "PackagePath": "staticwebassets\\css\\commonSection.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\header.css",
+      "PackagePath": "staticwebassets\\css\\header.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\productCard.css",
+      "PackagePath": "staticwebassets\\css\\productCard.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\productDetails.css",
+      "PackagePath": "staticwebassets\\css\\productDetails.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\js\\header.js",
+      "PackagePath": "staticwebassets\\js\\header.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\js\\productDetails.js",
+      "PackagePath": "staticwebassets\\js\\productDetails.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\js\\shoppingCart.js",
+      "PackagePath": "staticwebassets\\js\\shoppingCart.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\100x100.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\100x100.jpg"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\1b2c1e48-ecbe-4c5c-adf3-f6e1b5b825f5_kfc.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\1b2c1e48-ecbe-4c5c-adf3-f6e1b5b825f5_kfc.jpg"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\21ae36b5-4fb2-4f74-8656-f92a09787bcf_kfc.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\21ae36b5-4fb2-4f74-8656-f92a09787bcf_kfc.jpg"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\26fff78e-8c3f-4ea1-9334-bf8c0ddded7e_pizza.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\26fff78e-8c3f-4ea1-9334-bf8c0ddded7e_pizza.jpg"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\cfca2e1f-372c-42fa-8782-3d4fe76c3ac6_pizza.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\cfca2e1f-372c-42fa-8782-3d4fe76c3ac6_pizza.jpg"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\empty-cart.png",
+      "PackagePath": "staticwebassets\\public\\images\\empty-cart.png"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\heroImg.png",
+      "PackagePath": "staticwebassets\\public\\images\\heroImg.png"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\login-image.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\login-image.jpg"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\payment.png",
+      "PackagePath": "staticwebassets\\public\\images\\payment.png"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\signin-image.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\signin-image.jpg"
+    },
+    {
+      "Id": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\signup-image.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\signup-image.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BTL_LTWNC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BTL_LTWNC.props",
+      "PackagePath": "build\\BTL_LTWNC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BTL_LTWNC.props",
+      "PackagePath": "buildMultiTargeting\\BTL_LTWNC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BTL_LTWNC.props",
+      "PackagePath": "buildTransitive\\BTL_LTWNC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

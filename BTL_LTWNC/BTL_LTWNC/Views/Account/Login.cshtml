@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_LayoutLoginAndRegister.cshtml";
+}
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+
+@model BTL_LTWNC.Models.ViewModel.LoginViewModel
+
+<link rel="stylesheet" href="./css//login.css" asp-append-version="true" />
+
+<section class="login-page bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1">
+                <h3 class="mb-3">Login Now</h3>
+                <div class="bg-white shadow rounded">
+                    <div class="row">
+                        <div class="col-md-7 pe-0">
+                            <div class="form-left h-100 py-5 px-5">
+                                <form class="row g-4" method="post" asp-controller="Account" asp-action="Login">
+                                    <div class="col-12">
+                                        <label class="mb-1">Username<span class="text-danger">*</span></label>
+                                        <div class="input-group">
+                                            <div class="input-group-text"><i class='bx bxs-user'></i></div>
+                                            <input type="text" class="form-control" asp-for="username" placeholder="Enter Username">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-12">
+                                        <label class="mb-1">Password<span class="text-danger">*</span></label>
+                                        <div class="input-group">
+                                            <div class="input-group-text"><i class='bx bxs-lock-alt'></i></div>
+                                            <input type="password" class="form-control" asp-for="password" placeholder="Enter Password">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-12">
+                                        <span class="text-danger">@ViewBag.ErrorMessage</span>
+                                    </div>
+
+                                    <div class="col-12">
+                                        <p class="float-end">
+                                            Don't have an account? <a href="/register" style="color: blue !important">Register</a>
+                                        </p>
+                                    </div>
+
+                                    <div class="col-12">
+                                        <button type="submit" class="btn btn-primary w-100 mt-4">Login</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+
+                        <div class="col-md-5">
+                            <div class="form-right">
+                                <img src="./public/images/login-image.jpg" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+

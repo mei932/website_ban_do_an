@@ -1,0 +1,68 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model BTL_LTWNC.Models.EF.Product
+
+@if (Model == null)
+{
+    <h1 class="text-center text-uppercase text-danger fw-bold">Không có bản ghi nào!!!</h1>
+}
+else
+{
+    <div class="p-5">
+        <h1 class="text-center text-uppercase font-bold">Xóa loại sản phẩm</h1>
+
+        <div>
+            <h4>Thông tin loại sản phẩm</h4>
+
+            <dl class="row pt-3">
+                <dt class="col-sm-2">
+                    ID:
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.iProductID)
+                </dd>
+
+                <dt class="col-sm-2">
+                    Ảnh:
+                </dt>
+                <dd class="col-sm-10">
+                    <img src="~/public/images/@Model.sImageUrl" style="width: 100px; height: 100px"/>
+                </dd>
+
+                <dt class="col-sm-2">
+                    Tên sản phẩm:
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.sProductName)
+                </dd>
+
+                <dt class="col-sm-2">
+                    Loại sản phẩm:
+                </dt>
+                <dd class="col-sm-10">
+                    @ViewBag.categoryName
+                </dd>
+
+                <dt class="col-sm-2">
+                    Giá tiền:
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.fPrice)
+                </dd>
+            </dl>
+
+            <form method="post" asp-area="admin" asp-controller="product" asp-action="delete">
+                <input type="hidden" asp-for="iProductID" />
+
+                <div class="d-flex gap-4">
+                    <a href="/admin/product/QuanLySanPham" class="btn btn-primary">Quay lại</a>
+                    <button type="submit" class="btn btn-danger">Xóa</button>
+                </div>
+            </form>
+        </div>
+    </div>
+}

@@ -1,0 +1,55 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<BTL_LTWNC.Models.ViewModel.ProductViewModel>
+
+<div class="p-5">
+    <h1 class="text-center text-uppercase font-bold">Quản lý sản phẩm</h1>
+
+    <table class="table table-hover mt-3">
+        <thead>
+            <tr>
+                <th class="col-md-1 text-center">STT</th>
+                <th class="col-md-1 text-center">ID</th>
+                <th class="col-md-1 text-center">Ảnh</th>
+                <th class="col-md-3 text-center">Tên sản phẩm</th>
+                <th class="col-md-2 text-center">Loại sản phẩm</th>
+                <th class="col-md-2 text-center">Giá tiền</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                var i = 1;
+                foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="col-md-1 text-center">@i</td>
+                        <td class="col-md-1 text-center">@item.iProductID</td>
+                        <td class="col-md-1">
+                            <img src="~/public/images/@item.sImageUrl" style="width: 100px; height: 100px" />
+                        </td>
+                        <td class="col-md-3 text-center">@item.sProductName</td>
+                        <td class="col-md-2 text-center">@item.sCategoryName</td>
+                        <td class="col-md-2 text-center">@item.fPrice.ToString("C0")</td>
+                        <td>
+                            <a class="btn btn-small btn-primary me-2" asp-area="Admin" asp-controller="Product" asp-action="Edit" asp-route-id="@item.iProductID">Edit</a>
+                            <a class="btn btn-small btn-danger" asp-area="Admin" asp-controller="Product" asp-action="Delete" asp-route-id="@item.iProductID">Delete</a>
+                        </td>
+                    </tr>
+                    i++;
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="12" class="text-center fw-bold p-2">Không có bản ghi nào !!!</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

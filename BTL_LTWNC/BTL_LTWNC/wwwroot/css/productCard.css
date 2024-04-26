@@ -1,0 +1,35 @@
+﻿.product__img img {
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.product__img img:hover {
+    scale: 0.9;
+}
+
+
+.product__name {
+    font-size: 1.6rem;
+    font-weight: 500;
+    color: #0a1d37;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    cursor: pointer;
+}
+
+.price {
+    color: #0a1d37;
+    font-size: 1.3rem;
+    font-weight: 500;
+    letter-spacing: 0.8px;
+}
+
+@media only screen and (max-width: 576px) {
+    .product__name {
+        font-size: 1.4rem;
+    }
+
+    .price {
+        font-size: 1.2rem;
+    }
+}

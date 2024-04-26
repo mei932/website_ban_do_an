@@ -1,0 +1,52 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model IEnumerable<BTL_LTWNC.Models.EF.Order>
+
+<div class="p-5">
+    <h1 class="text-center text-uppercase font-bold">Quản lý đơn hàng</h1>
+
+    <table class="table table-hover mt-5">
+        <thead>
+            <tr>
+                <th>STT</th>
+                <th>ID</th>
+                <th>Ngày tạo</th>
+                <th>Tên khách hàng</th>
+                <th>Số điện thoại</th>
+                <th>Địa chỉ</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                var i = 1;
+                foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@i</td>
+                        <td>@item.iOrderID</td>
+                        <td>@item.dOrderDate.ToString("dd/MM/yyyy HH:mm")</td>
+                        <td>@item.sCustomerName</td>
+                        <td>@item.sCustomerPhone</td>
+                        <td>@item.sCustomerAddress</td>
+                        <td>
+                            <a class="btn btn-small btn-primary" asp-area="Admin" asp-controller="Order" asp-action="Details" asp-route-id="@item.iOrderID">Details</a>
+                        </td>
+                    </tr>
+                    i++;
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="12" class="text-center fw-bold p-2">Không có bản ghi nào !!!</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

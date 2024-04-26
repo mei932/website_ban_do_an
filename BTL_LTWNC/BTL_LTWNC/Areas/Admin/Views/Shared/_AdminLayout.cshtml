@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BTL_LTWNC</title>
+    <link rel="stylesheet" href="/AdminAssets/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/AdminAssets/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/BTL_LTWNC.styles.css" asp-append-version="true" />
+    <link href="https://cdn.lineicons.com/4.0/lineicons.css" rel="stylesheet" />
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <div class="wrapper">
+
+        @await Html.PartialAsync("_SidebarPartialView.cshtml")
+
+        <main role="main" class="main">
+            @RenderBody()
+        </main>
+    </div>
+    <script src="~/AdminAssets/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/AdminAssets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/AdminAssets/js/site.js" asp-append-version="true"></script>
+   @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,41 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model IEnumerable<BTL_LTWNC.Models.EF.CartItem>
+
+@if (Model != null && Model.Any())
+{
+    <h3 class="mb-3">GIỎ HÀNG <span style="float: right; position: relative"><small>@Model.Count()</small></span></h3>
+
+    double cartTotal = 0;
+
+    <div>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Tên món</th>
+                    <th>Thành tiền</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    cartTotal += item.fTotalPrice;
+                    <tr>
+                        <td>@item.sProductName</td>
+                        <td>@item.fTotalPrice.ToString("C0")</td>
+                    </tr>
+                }
+
+            </tbody>
+
+            <tr>
+                <td class="fw-bold">Tổng tiền</td>
+                <td>@cartTotal.ToString("C0")</td>
+            </tr>
+
+        </table>
+    </div>
+}

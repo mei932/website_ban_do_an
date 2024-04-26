@@ -1,0 +1,89 @@
+﻿
+
+.table td th {
+    color: #0a1d37;
+}
+
+.tabel tr td {
+    font-size: 1.1rem;
+    text-transform: capitalize;
+    letter-spacing: .5px;
+}
+
+.table tr td img {
+    object-fit: cover;
+}
+
+.table tr td a {
+    color: white !important;
+}
+
+    .product_img {
+        width: 120px;
+        height: 120px;
+        object-fit: cover;
+    }
+
+.td span {
+    cursor: pointer
+}
+
+.cart_right {
+    border: solid 1px #0a1d37;
+    border-radius: 5px;
+}
+
+h6 {
+    font-size: 1.2rem;
+    padding: 10px 0 0 0;
+    border-bottom: solid 1px #0a1d37;
+    padding: 15px 0px 10px 0px;
+}
+
+    /*h6::after {
+        content: '';
+        width: 100%;
+        height: 1px;
+        border: solid 1px #0a1d37;
+        display: block;
+    }*/
+
+.cart_right p:nth-child(2) {
+    padding: 10px 0 5px 0;
+    letter-spacing: 1px;
+    color: #0a1d37;
+    font-size: 2.2rem;
+    padding: 20px 0px 10px 0px;
+}
+
+.cart_right p:nth-child(3) {
+    color: #999;
+    font-size: 1rem;
+    font-style: italic;
+    padding: 5px 0px 10px 0px;
+    border-bottom: solid 1px #0a1d37;
+}
+
+    /*.cart_right p:nth-child(3)::after {
+        content: '';
+        width: 100%;
+        height: 1px;
+        border: solid 1px #0a1d37;
+        display: block;
+    }*/
+
+.btnCheckOut {
+    width: 100%;
+    padding: 10px 20px;
+    border: solid 1px #0a1d37;
+    border-radius: 5px;
+    background-color: transparent;
+    color: #111;
+    transition: 0.3s ease;
+}
+
+    .btnCheckOut:hover {
+        background-color: #dc143c;
+        color: white !important;
+    }
+

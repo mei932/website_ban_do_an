@@ -1,0 +1,47 @@
+﻿.footer {
+    width: 100%;
+    
+}
+
+.footer__logo h1 {
+    font-weight: 900;
+    font-family: "Namdhinggo", serif;
+    letter-spacing: 2px
+}
+
+    .footer__logo h1 a span {
+        color: #dc143c;
+    }
+
+.footer__logo {
+    font-size: 0.9rem;
+}
+
+.quick-links__title {
+    font-size: 1.3rem
+}
+
+.footer__quick-links ul li a {
+    font-size: 1.1rem;
+}
+
+    .footer__quick-links ul li a:hover {
+        color: #dc143c !important;
+        font-weight: 600;
+    }
+
+.footer__copyright::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 1px;
+    border: solid 1px #222;
+}
+
+.footer__copyright p {
+    color: #222;
+    font-weight: 400
+}
+
+body {
+}

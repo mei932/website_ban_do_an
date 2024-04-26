@@ -1,0 +1,49 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<BTL_LTWNC.Models.ViewModel.UserViewModel>
+
+<div class="p-5">
+    <h1 class="text-center text-uppercase font-bold">Quản lý người dùng</h1>
+
+    <table class="table table-hover mt-3">
+        <thead>
+            <tr>
+                <th class="col-md-1">STT</th>
+                <th class="col-md-1 text-center">ID</th>
+                <th class="col-md-4 text-center">username</th>
+                <th class="col-md-2 text-center">Role</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                var i = 1;
+                foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="col-md-1">@i</td>
+                        <td class="col-md-1 text-center">@item.iUserID</td>
+                        <td class="col-md-4 text-center">@item.sUserName</td>
+                        <td class="col-md-2 text-center">@item.sRoleName</td>
+                        <td class="d-flex gap-3 justify-content-center">
+                            <a class="btn btn-small btn-secondary" asp-area="Admin" asp-controller="User" asp-action="Edit" asp-route-id="@item.iUserID">Edit</a>
+                            <a class="btn btn-small btn-danger" asp-area="Admin" asp-controller="User" asp-action="Delete" asp-route-id="@item.iUserID">Delete</a>
+                        </td>
+                    </tr>
+                    i++;
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="12" class="text-center fw-bold p-2">Không có bản ghi nào !!!</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

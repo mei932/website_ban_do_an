@@ -1,0 +1,83 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Product Details";
+}
+
+@model BTL_LTWNC.Models.EF.Product
+
+<link rel="stylesheet" href="./css/productDetails.css" asp-append-version="true" />
+
+
+@await Html.PartialAsync("~/Views/Shared/_CommonSectionPartialView.cshtml", (string)ViewBag.Title);
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <img src="~/public/images/@Model.sImageUrl" alt="" />
+            </div>
+            <div class="col-lg-6">
+                <div class="product__details">
+                    <h2>@Model.sProductName</h2>
+                    <p>@Model.fPrice.ToString("C0")</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!</p>
+
+                    <div class="quantity d-flex flex-column flex-sm-row align-items-sm-center">
+                        <span>Quantity:</span>
+                        <div class="quantity_selector">
+                            <span class="minus"><i class='bx bx-minus' aria-hidden="true"></i></span>
+                            <span id="quantity_value">1</span>
+                            <span class="plus"><i class='bx bx-plus' aria-hidden="true"></i></i></span>
+                        </div>
+                    </div>
+
+                    <div class="mt-3">
+                        <a href="#" class="btn btnAddToCart w-100" data-id="@Model.iProductID">Add to cart</a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div>
+                    <h1>Description</h1>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Optio nostrum accusantium iste, voluptas cumque provident!
+                        Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut
+                        consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus
+                        odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati
+                        blanditiis at impedit quibusdam!
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1>Related Products</h1>
+            </div>
+
+            @foreach (var item in ViewBag.relatedProduct as IEnumerable<BTL_LTWNC.Models.EF.Product>)
+            {
+                @await Html.PartialAsync("~/Views/Shared/_ProductPartialView.cshtml", item)
+            }
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script src="~/js/productDetails.js"></script>
+}
