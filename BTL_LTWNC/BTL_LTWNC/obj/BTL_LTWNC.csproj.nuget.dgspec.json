@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\BTL_LTWNC.csproj": {}
+    "/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/BTL_LTWNC.csproj": {}
   },
   "projects": {
-    "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\BTL_LTWNC.csproj": {
+    "/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/BTL_LTWNC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\BTL_LTWNC.csproj",
+        "projectUniqueName": "/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/BTL_LTWNC.csproj",
         "projectName": "BTL_LTWNC",
-        "projectPath": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\BTL_LTWNC.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\LTWNC\\BTL_LTWNC\\BTL_LTWNC\\obj\\",
+        "projectPath": "/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/BTL_LTWNC.csproj",
+        "packagesPath": "/home/ngocphuc/.nuget/packages/",
+        "outputPath": "/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ngocphuc/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -98,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

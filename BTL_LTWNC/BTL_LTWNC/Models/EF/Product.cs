@@ -16,7 +16,7 @@ namespace BTL_LTWNC.Models.EF
         public int iProductCategoryID { get; set; }
 
         public double fPrice { get; set; }
-
+        // public string Description{get;set;}
         public string? sImageUrl { get; set; }
 
         [NotMapped]

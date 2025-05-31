@@ -17,179 +17,179 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BTL_LTWNC
 build_property.RootNamespace = BTL_LTWNC
-build_property.ProjectDir = E:\LTWNC\BTL_LTWNC\BTL_LTWNC\
+build_property.ProjectDir = /home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = E:\LTWNC\BTL_LTWNC\BTL_LTWNC
+build_property.MSBuildProjectDirectory = /home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Order/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXIvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Order/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXIvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/ProductCategory/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdENhdGVnb3J5XENyZWF0ZS5jc2h0bWw=
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/ProductCategory/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdENhdGVnb3J5XERlbGV0ZS5jc2h0bWw=
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/ProductCategory/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdENhdGVnb3J5XEVkaXQuY3NodG1s
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/ProductCategory/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdENhdGVnb3J5XEluZGV4LmNzaHRtbA==
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Product/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/ProductCategory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdENhdGVnb3J5L0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Product/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/ProductCategory/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdENhdGVnb3J5L0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Product/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/ProductCategory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdENhdGVnb3J5L0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Product/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/ProductCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdENhdGVnb3J5L0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Shared/_SideBarPartialView.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9TaWRlQmFyUGFydGlhbFZpZXcuY3NodG1s
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Shared/_SideBarPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19TaWRlQmFyUGFydGlhbFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/User/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxDcmVhdGUuY3NodG1s
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlci9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/User/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxEZWxldGUuY3NodG1s
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/User/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlci9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/User/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlci9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/User/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlci9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Account/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Account/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Cart/CheckOut.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja091dC5jc2h0bWw=
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Cart/CheckOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9DaGVja091dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Cart/CheckOutSuccess.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja091dFN1Y2Nlc3MuY3NodG1s
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Cart/CheckOutSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9DaGVja091dFN1Y2Nlc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Cart/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Cart/_CheckOutCartItemPartialView.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxfQ2hlY2tPdXRDYXJ0SXRlbVBhcnRpYWxWaWV3LmNzaHRtbA==
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Cart/_CheckOutCartItemPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9fQ2hlY2tPdXRDYXJ0SXRlbVBhcnRpYWxWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Cart/_CheckOutCustomerInfoPartialView.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxfQ2hlY2tPdXRDdXN0b21lckluZm9QYXJ0aWFsVmlldy5jc2h0bWw=
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Cart/_CheckOutCustomerInfoPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9fQ2hlY2tPdXRDdXN0b21lckluZm9QYXJ0aWFsVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Product/getAllProduct.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxnZXRBbGxQcm9kdWN0LmNzaHRtbA==
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Product/getAllProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9nZXRBbGxQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Product/ProductDetails.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0RGV0YWlscy5jc2h0bWw=
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Product/ProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9Qcm9kdWN0RGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Shared/_CommonSectionPartialView.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db21tb25TZWN0aW9uUGFydGlhbFZpZXcuY3NodG1s
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Shared/_CommonSectionPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Db21tb25TZWN0aW9uUGFydGlhbFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Shared/_FooterPartialView.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsVmlldy5jc2h0bWw=
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Shared/_FooterPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Gb290ZXJQYXJ0aWFsVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Shared/_HeaderPartialView.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJQYXJ0aWFsVmlldy5jc2h0bWw=
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Shared/_HeaderPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19IZWFkZXJQYXJ0aWFsVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Shared/_LayoutLoginAndRegister.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMb2dpbkFuZFJlZ2lzdGVyLmNzaHRtbA==
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Shared/_LayoutLoginAndRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXRMb2dpbkFuZFJlZ2lzdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Shared/_ProductPartialView.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0UGFydGlhbFZpZXcuY3NodG1s
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Shared/_ProductPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Qcm9kdWN0UGFydGlhbFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = b-wh1lu4h2ee
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-7ewirrw3nc
 
-[E:/LTWNC/BTL_LTWNC/BTL_LTWNC/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-cdi0s0afib
+[/home/ngocphuc/aspnet/DATN/BTL_LTWNC/BTL_LTWNC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zh0ox2sguq

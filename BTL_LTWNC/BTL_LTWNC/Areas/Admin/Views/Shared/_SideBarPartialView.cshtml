@@ -1,5 +1,4 @@
-﻿
-@*
+﻿@*
     For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
 *@
 
@@ -18,33 +17,36 @@
     <ul class="sidebar-nav">
 
         <li class="sidebar-item">
-            <a href="#" class="sidebar-link collapsed has-dropdown" data-bs-toggle="collapse"
-               data-bs-target="#order" aria-controls="order">
+            <a href="#" class="sidebar-link collapsed has-dropdown" data-bs-toggle="collapse" data-bs-target="#order"
+                aria-controls="order">
                 <span>Quản lý đơn hàng</span>
             </a>
             <ul id="order" class="sidebar-dropdown list-unstyled collapse" data-bs-parent="#sidebar">
                 <li class="sidebar-item">
-                    <a class="sidebar-link" asp-area="Admin" asp-controller="Order" asp-action="Index">Danh sách đơn hàng</a>
+                    <a class="sidebar-link" asp-area="Admin" asp-controller="Order" asp-action="Index">Danh sách đơn
+                        hàng</a>
                 </li>
             </ul>
         </li>
 
         <li class="sidebar-item">
-            <a href="#" class="sidebar-link collapsed has-dropdown" data-bs-toggle="collapse"
-               data-bs-target="#customer" aria-controls="customer">
+            <a href="#" class="sidebar-link collapsed has-dropdown" data-bs-toggle="collapse" data-bs-target="#customer"
+                aria-controls="customer">
                 <span>Quản lý người dùng</span>
             </a>
             <ul id="customer" class="sidebar-dropdown list-unstyled collapse" data-bs-parent="#sidebar">
                 <li class="sidebar-item">
-                    <a class="sidebar-link" asp-area="Admin" asp-controller="User" asp-action="Index">Danh sách người dùng</a>
+                    <a class="sidebar-link" asp-area="Admin" asp-controller="User" asp-action="Index">Danh sách người
+                        dùng</a>
                 </li>
                 <li class="sidebar-item">
-                    <a class="sidebar-link" asp-area="Admin" asp-controller="User" asp-action="Create">Thêm người dùng</a>
+                    <a class="sidebar-link" asp-area="Admin" asp-controller="User" asp-action="Create">Thêm người
+                        dùng</a>
                 </li>
             </ul>
         </li>
 
-        <li class="sidebar-item">
+        @* <li class="sidebar-item">
             <a href="#" class="sidebar-link collapsed has-dropdown" data-bs-toggle="collapse"
                data-bs-target="#category" aria-controls="category">
                 <span>Quản lý danh mục</span>
@@ -57,19 +59,21 @@
                     <a class="sidebar-link" asp-area="Admin" asp-controller="ProductCategory" asp-action="Create">Thêm danh mục</a>
                 </li>
             </ul>
-        </li>
+        </li> *@
 
         <li class="sidebar-item">
-            <a href="#" class="sidebar-link collapsed has-dropdown" data-bs-toggle="collapse"
-               data-bs-target="#product" aria-controls="product">
+            <a href="#" class="sidebar-link collapsed has-dropdown" data-bs-toggle="collapse" data-bs-target="#product"
+                aria-controls="product">
                 <span>Quản lý sản phẩm</span>
             </a>
             <ul id="product" class="sidebar-dropdown list-unstyled collapse" data-bs-parent="#sidebar">
                 <li class="sidebar-item">
-                    <a class="sidebar-link" asp-area="Admin" asp-controller="Product" asp-action="Index">Danh sách sản phẩm</a>
+                    <a class="sidebar-link" asp-area="Admin" asp-controller="Product" asp-action="Index">Danh sách sản
+                        phẩm</a>
                 </li>
                 <li class="sidebar-item">
-                    <a class="sidebar-link" asp-area="Admin" asp-controller="Product" asp-action="Create">Thêm sản phẩm</a>
+                    <a class="sidebar-link" asp-area="Admin" asp-controller="Product" asp-action="Create">Thêm sản
+                        phẩm</a>
                 </li>
             </ul>
         </li>

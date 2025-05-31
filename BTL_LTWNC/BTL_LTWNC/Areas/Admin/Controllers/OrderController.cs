@@ -5,8 +5,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BTL_LTWNC.Areas.Admin.Controllers
 {
-    [Area("admin")]
-    [Route("admin/Order")]
+    [Area("Admin")]
+    [Route("Admin/Order")]
     public class OrderController : Controller
     {
         private readonly AppDbContext _dbContext;

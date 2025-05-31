@@ -24,7 +24,7 @@ namespace BTL_LTWNC.Controllers
         }
 
         [HttpGet]
-        [Route("productDetails")]
+        [Route("ProductDetails")]
         public async Task<IActionResult> productDetails(int id)
         {
             if (id.ToString() == null)
@@ -45,7 +45,9 @@ namespace BTL_LTWNC.Controllers
                 return NotFound();
             }
 
-            return View(product);
+            // return View(product);
+            return View("ProductDetails", product);
+
         }
     }
 }

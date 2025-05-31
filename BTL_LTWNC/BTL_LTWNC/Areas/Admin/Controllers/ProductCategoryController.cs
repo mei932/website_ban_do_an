@@ -5,8 +5,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BTL_LTWNC.Areas.Admin.Controllers
 {
-    [Area("admin")]
-    [Route("admin/ProductCategory")]
+    [Area("Admin")]
+    [Route("Admin/ProductCategory")]
     public class ProductCategoryController : Controller
     {
         private readonly AppDbContext _dbContext;

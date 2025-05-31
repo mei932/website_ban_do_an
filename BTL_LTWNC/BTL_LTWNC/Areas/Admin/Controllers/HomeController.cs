@@ -5,7 +5,7 @@ namespace BTL_LTWNC.Areas.Admin.Controllers
 
     public class HomeController : Controller
     {
-        [Area("admin")]
+        [Area("Admin")]
         public IActionResult Index()
         {
 

@@ -1,13 +1,6 @@
-CREATE DATABASE sqlQuanLyBanDoAn ON 
-(
-	NAME = 'sqlQuanLyBanDoAn,',
-	FILENAME = 'E:\sqlQuanLyBanDoAn\sqlQuanLyBanDoAn.mdf',
-	SIZE = 100MB,
-	MAXSIZE = UNLIMITED,
-	FILEGROWTH = 10%
-)
 
-USE sqlQuanLyBanDoAn
+
+USE sqlCPT
 
 CREATE TABLE tblRole
 (
@@ -129,3 +122,9 @@ BEGIN
 END
 
 exec spGetRelatedProduct 2
+
+
+sudo docker run -it --rm --network="host" mcr.microsoft.com/mssql-tools \
+  /opt/mssql-tools/bin/sqlcmd -S localhost -U SA -P '123456Ab6'
+
+docker start sqlserver
